@@ -1,0 +1,32 @@
+body
+{
+color: deeppink;
+}
+.heading{
+    width:100%;
+    text-align: left;
+}
+.heading h3{
+    display:inline;
+}
+.heading button{
+    float: right;
+    border: 1px solid magenta;
+}
+.big_image{
+    width:100%;
+}
+#start, #status{
+    font-size: 22px;
+}
+#restart{
+    color: deeppink;
+    border: 2px dotted mediumpurple;
+    border-radius: 22px;
+}
+canvas{
+    border: 2px;
+    border-radius: 2px;
+    border-color: deepskyblue;
+    color: deeppink;
+}
